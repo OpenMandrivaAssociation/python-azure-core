@@ -1,5 +1,5 @@
 Name:		python-azure-core
-Version:	1.26.0
+Version:	1.26.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/a/azure-core/azure-core-%{version}.zip
 Summary:	Microsoft Azure Core Library for Python

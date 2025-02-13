@@ -1,7 +1,7 @@
 Name:		python-azure-core
-Version:	1.26.1
-Release:	2
-Source0:	https://files.pythonhosted.org/packages/source/a/azure-core/azure-core-%{version}.zip
+Version:	1.32.0
+Release:	1
+Source0:	https://files.pythonhosted.org/packages/source/a/azure-core/azure_core-%{version}.tar.gz
 Summary:	Microsoft Azure Core Library for Python
 URL:		https://pypi.org/project/azure-core/
 License:	MIT License
@@ -13,7 +13,7 @@ BuildArch:	noarch
 Microsoft Azure Core Library for Python
 
 %prep
-%autosetup -p1 -n azure-core-%{version}
+%autosetup -p1 -n azure_core-%{version}
 
 %build
 %py_build

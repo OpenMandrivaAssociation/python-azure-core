@@ -1,6 +1,6 @@
 Name:		python-azure-core
-Version:	1.32.0
-Release:	2
+Version:	1.37.0
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/a/azure-core/azure_core-%{version}.tar.gz
 Summary:	Microsoft Azure Core Library for Python
 URL:		https://pypi.org/project/azure-core/

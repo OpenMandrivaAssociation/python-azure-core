@@ -2,7 +2,7 @@
 %define oname  azure_core
 
 Name:		python-azure-core
-Version:	1.38.1
+Version:	1.38.2
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/a/%{module}/%{oname}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Microsoft Azure Core Library for Python

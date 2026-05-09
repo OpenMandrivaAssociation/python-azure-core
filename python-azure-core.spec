@@ -2,7 +2,7 @@
 %define oname  azure_core
 
 Name:		python-azure-core
-Version:	1.40.0
+Version:	1.41.0
 Release:	1
 Summary:	Microsoft Azure Core Library for Python
 License:	MIT License
